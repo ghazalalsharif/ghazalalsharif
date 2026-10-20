@@ -37,6 +37,18 @@ Browser tools for age calculation, day counting and GPA estimation, with 4-point
 **HTML · CSS · JavaScript · localStorage**  
 Individual project · [Preview](https://ghazalalsharif.github.io/Portfolio-Website/assets/projects/calculator.png)
 
+## 📚 Coursework and practice
+
+A collection of academic projects and early exercises, with scope and setup notes in each repository.
+
+| Project | Focus |
+| --- | --- |
+| [Computer Graphics](https://github.com/ghazalalsharif/Computer-Graphics-OpenGL) | C++, OpenGL/GLUT, shapes and transformations |
+| [Home LAN](https://github.com/ghazalalsharif/Home-LAN-Packet-Tracer) | Cisco Packet Tracer, IPv4 and connectivity testing |
+| [Smart Budget Tracker](https://github.com/ghazalalsharif/Smart-Budget-Tracker-Console) | Team C# console project, .NET 8 and CSV |
+| [Employee Input Validation](https://github.com/ghazalalsharif/Employee-Input-Validation-Tkinter) | Beginner Python/Tkinter form prototype |
+| [Python Foundations Labs](https://github.com/ghazalalsharif/Python-Foundations-Labs) | Lists and strings worksheet; solutions not yet implemented |
+
 ## 🧰 Technical toolkit
 
 | Area | Project experience |
