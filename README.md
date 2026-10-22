@@ -9,15 +9,15 @@ I’m Ghazal, a final-year Computer Science student exploring how software and A
 
 - **Building with:** JavaScript, C#, HTML and CSS.
 - **Learning foundations:** Python, artificial intelligence and data science through coursework.
-- **Currently:** completing my degree and bringing together my projects and learning experiences.
+- **Currently:** seeking an AI internship, while remaining open to software development opportunities.
 
 ## 🚀 Featured projects
 
 ### [ToDoList ↗](https://github.com/ghazalalsharif/ToDoList)
-A task manager with priorities, deadlines, a calendar and completion tracking. Includes local task commands and a chat interface connected to the Gemini API.
+A task manager with priorities, deadlines, a calendar and completion tracking. Includes local task commands and an original Gemini API integration prototype. General AI responses are disabled in the public demo.
 
 **HTML · CSS · JavaScript · localStorage · Gemini API**  
-Individual project · [Preview](https://ghazalalsharif.github.io/Portfolio-Website/assets/projects/todo.png)
+Individual project · [Try live demo](https://ghazalalsharif.github.io/ToDoList/) · [Preview](https://ghazalalsharif.github.io/Portfolio-Website/assets/projects/todo.png)
 
 ### [Hotel Room Booking System ↗](https://github.com/ghazalalsharif/Hotel-Room-Booking-System)
 A hotel reservation application with room selection, guest details, availability checks, capacity validation and stay pricing.
@@ -35,9 +35,9 @@ Individual project · [Preview](https://ghazalalsharif.github.io/Portfolio-Websi
 Browser tools for age calculation, day counting and GPA estimation, with 4-point and 5-point scales, credit-hour weighting and saved inputs.
 
 **HTML · CSS · JavaScript · localStorage**  
-Individual project · [Preview](https://ghazalalsharif.github.io/Portfolio-Website/assets/projects/calculator.png)
+Individual project · [Try live demo](https://ghazalalsharif.github.io/Student-Age-and-GPA-Calculator/) · [Preview](https://ghazalalsharif.github.io/Portfolio-Website/assets/projects/calculator.png)
 
-## 📚 Coursework and practice
+## 📚 Learning and practice
 
 A collection of academic projects and early exercises, with scope and setup notes in each repository.
 
@@ -47,7 +47,7 @@ A collection of academic projects and early exercises, with scope and setup note
 | [Home LAN](https://github.com/ghazalalsharif/Home-LAN-Packet-Tracer) | Cisco Packet Tracer, IPv4 and connectivity testing |
 | [Smart Budget Tracker](https://github.com/ghazalalsharif/Smart-Budget-Tracker-Console) | Team C# console project, .NET 8 and CSV |
 | [Employee Input Validation](https://github.com/ghazalalsharif/Employee-Input-Validation-Tkinter) | Beginner Python/Tkinter form prototype |
-| [Python Foundations Labs](https://github.com/ghazalalsharif/Python-Foundations-Labs) | Lists and strings worksheet; solutions not yet implemented |
+| [Python Foundations Labs](https://github.com/ghazalalsharif/Python-Foundations-Labs) | Runnable list and string exercises with worked examples (AI-assisted portfolio review) |
 
 ## 🧰 Technical toolkit
 
